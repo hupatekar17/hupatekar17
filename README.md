@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdnbzk0MWcycWcycjVtanM3b2p5cmxlYnByaTFzNGNteWFsczI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" height="175px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdnbzk0MWcycWcycjVtanM3b2p5cmxlYnByaTFzNGNteWFsczI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" height="175px"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Harshavardhan Patekar </h1>
 
