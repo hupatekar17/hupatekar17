@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif" height="175px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdnbzk0MWcycWcycjVtanM3b2p5cmxlYnByaTFzNGNteWFsczI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" height="175px"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Harshavardhan Patekar </h1>
 
@@ -54,4 +54,5 @@
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hupatekar17&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hupatekar17&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hupatekar17&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/hupatekar17)|
