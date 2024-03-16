@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Full Stack Dev**
 
-- ⚡ fact: turning caffeine into code 
+- ⚡ Fact: turning caffeine into code 
 
 - 📫 How to reach me **pokeharsh@gmail.com**
 
