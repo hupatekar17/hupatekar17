@@ -55,8 +55,8 @@ Backend Developer with AI background | Building Scalable & Data-Driven Systems
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/hupatekar17
+- 📧 Email: pokeharsh@gmail.com  
 
 ---
 
